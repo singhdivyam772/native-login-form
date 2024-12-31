@@ -2,7 +2,7 @@
 
 
 ## Project Recording link please visit the link
-- [`React-Native-Login-app`](https://linksharing.samsungcloud.com/vNPFjXngp55e). 
+- [`React-Native-Login-Aapp-Link`](https://linksharing.samsungcloud.com/vNPFjXngp55e). 
 
 
 
